@@ -4,4 +4,12 @@ This is a remake of the original 2048 game (https://play2048.co/). This project 
 
 Game state images: 
 
-![Image of Game](https://github.com/aadarshjha/2048-Remake/tree/master/res/1.png)
+## Game States 
+
+![Image Of Game](res/1.png)
+
+![Image Of Game](res/2.png)
+
+## Game Over State
+
+![Image Of Game](res/3.png)
