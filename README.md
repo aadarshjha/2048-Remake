@@ -4,4 +4,4 @@ This is a remake of the original 2048 game (https://play2048.co/). This project 
 
 Game state images: 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/aadarshjha/2048-Remake/edit/master/res/Screen Shot 2019-08-11 at 6.30.48 PM.png)
